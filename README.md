@@ -12,9 +12,9 @@ A clean, responsive calculator with basic arithmetic operations that looks like 
 
 ## Files
 
-- `index2.html` - Main HTML structure
-- `styles3.css` - Styling for the calculator
-- `script3.js` - Calculator functionality
+- `index.html` - Main HTML structure
+- `styles.css` - Styling for the calculator
+- `script.js` - Calculator functionality
 
 ## Screenshot
 

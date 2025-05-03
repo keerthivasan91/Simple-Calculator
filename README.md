@@ -18,5 +18,4 @@ A clean, responsive calculator with basic arithmetic operations that looks like 
 
 ## Screenshot
 
-![Calculator Screenshot](![image](https://github.com/user-attachments/assets/99804572-b62b-4e0a-8f47-8930a028e895)
-) <!-- Add your screenshot if available -->
+![Calculator Screenshot](![image](https://github.com/user-attachments/assets/99804572-b62b-4e0a-8f47-8930a028e895) 
